@@ -1,0 +1,4 @@
+Script started on Mon Nov 11 13:37:44 2019
+[?1034hbash-3.2$ ls
+courses.txt	ex10log.txt	myFirstScript^M
+bash-3.2$ls -l

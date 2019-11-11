@@ -1,0 +1,10 @@
+csc220
+mat127
+spa102
+csc099
+fsp161
+CSC230
+CSC270
+SPA103
+MAT128
+
